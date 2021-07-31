@@ -1,0 +1,20 @@
+{
+  "name": "Cubicleapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TsheringSherpa589/CubicleApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TsheringSherpa589/CubicleApp/issues"
+  },
+  "homepage": "https://github.com/TsheringSherpa589/CubicleApp#readme"
+}
