@@ -1,20 +1,17 @@
 {
-  "name": "Cubicleapp",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/TsheringSherpa589/CubicleApp.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/TsheringSherpa589/CubicleApp/issues"
-  },
-  "homepage": "https://github.com/TsheringSherpa589/CubicleApp#readme"
+    "name": "name",
+    "description": "description",
+    "authors": "author",
+    "version": "1.0.0",
+    "main": "pathToMain",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "express": "^4.17.1",
+        "express-handlebars": "^3.1.0",
+        "handlebars": "^4.7.7",
+        "uniqid": "^5.0.3"
+    },
+    "devDependencies": {
+        "nodemon": "^1.19.2"
+    }
 }
